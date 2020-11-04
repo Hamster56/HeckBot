@@ -27,4 +27,4 @@ async def on_message(message) :
         await message.add_reaction('<:Heck:773607864706269244>')
     await bot.process_commands(message)
 
-bot.run('NzczNTU3OTcxODU4NzUxNDk4.X6K-AA.8znFQmA9Aa2pRwJhl7qIxR0UN3A')
+bot.run('token')
